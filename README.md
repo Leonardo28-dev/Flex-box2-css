@@ -1,2 +1,2 @@
-# Flex-box2-css
-feito em sala
+# Flex-box2
+Atividade em sala 
